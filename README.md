@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [General project requirements](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io#general-project-requirements))
+- [General project requirements](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io#general-project-requirements)
 - [General functionalities](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io#general-functionalities)
 - [How to Start It](https://github.com/SilvanaJ90/challengeonecodificador5#how-to-start-it)
 - [Technology Implemented](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io#technology-implemented)
