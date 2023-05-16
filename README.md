@@ -1,15 +1,12 @@
 # Text encryptor
 
-![image]()
-
-
 ## Table of Contents
 
-- [General project requirements](https://github.com/SilvanaJ90/challengeonecodificador5#general-functionalities)
-- [General functionalities](https://github.com/SilvanaJ90/challengeonecodificador5#general-functionalities)
+- [General project requirements](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io#general-project-requirements))
+- [General functionalities](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io#general-functionalities)
 - [How to Start It](https://github.com/SilvanaJ90/challengeonecodificador5#how-to-start-it)
-- [Technology Implemented](https://github.com/SilvanaJ90/challengeonecodificador5#technology-implemented)
-- [Authors](https://github.com/SilvanaJ90/challengeonecodificador5#authors)
+- [Technology Implemented](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io#technology-implemented)
+- [Authors](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io#authors)
 
 
 ## General project requirements
@@ -46,6 +43,25 @@ Extras:
 
 
 ## How to Start It
+Clone:
+
+https://github.com/SilvanaJ90/challengeonecodificador5.git
+
+Open the "encryptor.html" file in any web browser. In the "Enter text here" area, enter the text to be encrypted. The encrypted message will appear on the right side of the display. You can copy the message and paste it back into the "Enter text here" area to decrypt the message.
+
+
+- Field for the text to be encrypted/decrypted
+![image](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io/blob/main/static/images/index.png)
+
+- A button to encrypt/encode
+![image](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io/blob/main/static/images/encrypted.png)
+
+- Area to display the encrypted/decrypted text.
+![image](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io/blob/main/static/images/copy.png)
+
+- A button to decrypt/decode
+![image](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io/blob/main/static/images/decrypted.png)
+
 
 
 ## Technology Implemented:
