@@ -4,7 +4,7 @@
 
 - [General project requirements](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io#general-project-requirements)
 - [General functionalities](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io#general-functionalities)
-- [How to Start It](https://github.com/SilvanaJ90/challengeonecodificador5#how-to-start-it)
+- [How to Start It](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io#how-to-start-it)
 - [Technology Implemented](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io#technology-implemented)
 - [Authors](https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io#authors)
 
@@ -45,7 +45,7 @@ Extras:
 ## How to Start It
 Clone:
 
-https://github.com/SilvanaJ90/challengeonecodificador5.git
+https://github.com/SilvanaJ90/Challenge_ONE_Sprint-01.github.io.git
 
 Open the "encryptor.html" file in any web browser. In the "Enter text here" area, enter the text to be encrypted. The encrypted message will appear on the right side of the display. You can copy the message and paste it back into the "Enter text here" area to decrypt the message.
 
