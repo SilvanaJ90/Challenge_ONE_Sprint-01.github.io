@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Encriptador de Texto</title>
+  <link rel="stylesheet" href="./static/styles/common.css">
+  <link rel="stylesheet" href="./static/styles/reset.css">
+
+
+</head>
+<body>
+<main>
+
+  <!--Logo-->
+  <img src="static/images/Vector.png" class="logo">
+
+  <!--Frama Main-->
+    <textarea type="text" id="text" placeholder="Ingrese el texto aquí" class="frame_main" ></textarea>
+    <p class="info">&#9888 Solo letras minúsculas y sin acentos</p>
+    <button onclick="encryptText()" class="encrypt">Encriptar</button>
+    <button onclick="decryptText()" class="decrypt">Desencriptar</button>
+
+  <!--Frame Rectangle-->
+  <div class="frame_rectangle">
+    <textarea id="result" rows="5" cols="50" class="input_text" readonly>Ningún mensaje fue encontrado</textarea>
+    <button onclick="copyText()" class="copy">Copiar</button>
+  </div>
+  
+  <script type="text/javascript" src="static/scripts/encryptor.js"></script>
+</main>
+<footer>
+    <p class="footer-copyright">&copy 2023 Encryptor, made with ♥ by Silvana Jaramillo student at Alura Latam.</p>
+</footer>
+</body>
+
+</html>
